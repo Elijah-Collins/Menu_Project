@@ -11,12 +11,12 @@
 
 html{
     width: 100%;
-    height: 130%;
+    height: 140%;
     background: linear-gradient(white 10%, red);
 }
 body{
     width: 98%;
-    height: 97.5%;
+    height: 100%;
     padding: auto;
     padding-top: none;
     margin-top: none;
@@ -88,16 +88,7 @@ div.col-1-1 > #link, #sd_n_app, #chinese{
     text-align: center;
     float: left;
 }
-#col-1-3{
-    width: 33.3%;
-    text-align: center;
-    float: left;
-}
-#col-1-3v2{
-    width: 33.4%;
-    text-align: center;
-    float: left;
-}
+
 #page_content{
     width: 100%;
 }
@@ -114,9 +105,6 @@ h1#topic{
     font-family: brushfont2;
     font-size: 2.5em;
     text-align: center;
-}
-subtitle{
-    font-size: 0.9em;
 }
 
 /* Dropdown Menu */
